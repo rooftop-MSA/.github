@@ -15,4 +15,5 @@ Therefore, you can view it freely by accessing below address.
 <a href="https://medium.com/@develxb" align="right"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" align="right"/></a>
 
 ## Articles 📃 
-[R2DBC with MySQL](https://medium.com/@develxb/r2dbc-with-mysql-771313374b63)
+[R2DBC with MySQL](https://medium.com/@develxb/r2dbc-with-mysql-771313374b63)   
+[How to maintain Spring data R2DBC connection](https://medium.com/@develxb/spring-data-r2dbc-%EC%BB%A4%EB%84%A5%EC%85%98-%EC%9C%A0%EC%A7%80-%EB%B0%A9%EB%B2%95-fb1bc8d83a4f)
