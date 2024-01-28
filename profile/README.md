@@ -16,4 +16,4 @@ Therefore, you can view it freely by accessing below address.
 
 ## Articles 📃 
 [R2DBC with MySQL](https://medium.com/@develxb/r2dbc-with-mysql-771313374b63)   
-[How to maintain Spring data R2DBC connection](https://medium.com/@develxb/spring-data-r2dbc-%EC%BB%A4%EB%84%A5%EC%85%98-%EC%9C%A0%EC%A7%80-%EB%B0%A9%EB%B2%95-fb1bc8d83a4f)
+[How to maintain DB connection in Spring data R2DBC](https://medium.com/@develxb/spring-data-r2dbc-%EC%BB%A4%EB%84%A5%EC%85%98-%EC%9C%A0%EC%A7%80-%EB%B0%A9%EB%B2%95-fb1bc8d83a4f)
