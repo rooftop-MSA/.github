@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frooftop-MSA&count_bg=%233D63C8&title_bg=%232D2D2D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" align="right"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frooftop-MSA&count_bg=%23000000&title_bg=%23000000&icon=&icon_color=%23000000&title=hits&edge_flat=true" align="right"/></a>
 
 ## APM 📈
 All performance metrics of rooftopmsa are opened.    
