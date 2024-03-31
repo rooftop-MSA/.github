@@ -11,8 +11,9 @@ All performance metrics of rooftopmsa are opened.
 Therefore, you can view it freely by accessing below address.   
 > ID : customer   
 > PWD : customer123
-
-[Click to monitoring server](http://www.rooftopmsa.org:81)   
+   
+~~[Click to monitoring server](http://www.rooftopmsa.org:81)~~   
+_Temporarily shutting down the server due to electricity costs._
 
 <a href="https://medium.com/@develxb" align="right"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" align="right"/></a>
 
